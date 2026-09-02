@@ -1,0 +1,17 @@
+# Quartus generated
+**/db/
+**/incremental_db/
+**/output_files/
+
+# ModelSim generated
+**/ModelSim/work/
+**/ModelSim/*.wlf
+**/ModelSim/transcript
+**/ModelSim/*.cr.mti
+**/ModelSim/*.mpf
+
+# Backup files
+*.bak
+
+# Temporary
+*.tmp

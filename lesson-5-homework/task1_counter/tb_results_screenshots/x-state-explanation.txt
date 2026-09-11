@@ -1,0 +1,1 @@
+Before reset, count is undefined because the internal register has not yet been assigned any value; in VHDL this appears as U, analogous to X in Verilog simulation.
